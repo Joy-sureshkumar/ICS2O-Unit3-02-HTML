@@ -33,11 +33,11 @@ img {
   color: white;
 }
 
- div {
+div {
   color: crimson;
   background-color: lightgrey;
   width: medium;
   border-style: double;
   padding: 50px;
   margin: 20px;
-}
+  }

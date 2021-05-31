@@ -2,6 +2,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-style: dotted dashed solid double;
 }
 #customers {
   font-family: Arial, Helvetica, sans-serif;
@@ -25,7 +26,11 @@ img {
   background-color:black;
   color: white;
 }
-p {
+div {
   color: crimson;
+  background-color: lightgrey;
+  width: medium;
+  border-style: double;
+  padding: 50px;
+  margin: 20px;
 }
-  <img src= "./Images/Bunny.jpeg" alt= "Bunny" width="30%">
